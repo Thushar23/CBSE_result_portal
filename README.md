@@ -1,8 +1,8 @@
-# CBSE_result_portal
-A full-stack web application for managing and displaying CBSE exam results. Built using Java Spring Boot for the backend and React.js with Vite and Material UI for the frontend, this portal enables users to search, view, and analyze student scores across multiple subjects. It ensures a structured and efficient way to access results with a user-friendly interface.
+# React + Vite
 
-🔹 Tech Stack: Java Spring Boot, React.js, Vite, Material UI
-🔹 Features:
-✔️ Student result management
-✔️ Subject-wise score display
-✔️ User-friendly and responsive design
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
